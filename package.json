@@ -1,0 +1,25 @@
+{
+  "name": "escape-game-alpha-root",
+  "version": "1.0.0",
+  "description": "Escape game éducatif numérique - Agents du Globe / Alpha ROOT",
+  "author": "TonNomEquipe",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.22.3",
+    "zustand": "^4.5.2",
+    "framer-motion": "^11.0.0",
+    "howler": "^2.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "vite": "^5.2.0"
+  }
+}

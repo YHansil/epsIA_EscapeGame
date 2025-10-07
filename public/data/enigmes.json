@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "titre": "Le Sceau de la Spasskaïa",
+    "description": "Convertis 12h10 en minutes, puis applique le modulo 657.",
+    "solution": "73",
+    "feedback": {
+      "success": "Latitude 73°N débloquée !",
+      "fail": "Essaie encore, Alpha ROOT..."
+    }
+  },
+  {
+    "id": 2,
+    "titre": "La Courbe des Andes",
+    "description": "Additionne les règnes des Cinq régimes et divise par les révolutions.",
+    "solution": "61",
+    "feedback": {
+      "success": "Coordonnée mise à jour : +1° et 1’.",
+      "fail": "Regarde bien la conversion des minutes..."
+    }
+  },
+  {
+    "id": 3,
+    "titre": "Puzzle de la Tour",
+    "description": "Reconstitue l'image pour révéler la clé cachée.",
+    "solution": "puzzle",
+    "feedback": {
+      "success": "✅ Bien joué, la Tour est restaurée !",
+      "fail": "Le puzzle est encore incomplet..."
+    }
+  }
+]
