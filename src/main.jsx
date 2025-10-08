@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // ==========================
 // 🧠 main.jsx – Point d'entrée principal du jeu
 // ==========================
@@ -19,3 +20,11 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </BrowserRouter>
   </React.StrictMode>
 );
+=======
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+import './index.css';
+
+ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+>>>>>>> 5dee8d7 (Maj--> finalisation puzzle + config enigme 2 et 3)

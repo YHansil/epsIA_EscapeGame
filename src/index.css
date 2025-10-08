@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* =============================
    🌐 Styles globaux du jeu
    ============================= */
@@ -150,4 +151,24 @@ body {
     opacity: 1;
     transform: scale(1);
   }
+=======
+body {
+  background-color: #000;
+  color: #0ff;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  background: #0ff;
+  color: #000;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+button:hover {
+  background: #09f;
+  color: white;
+>>>>>>> 5dee8d7 (Maj--> finalisation puzzle + config enigme 2 et 3)
 }

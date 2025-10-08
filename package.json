@@ -1,16 +1,21 @@
 {
   "name": "escape-game-alpha-root",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "Escape game éducatif numérique - Agents du Globe / Alpha ROOT",
   "author": "TonNomEquipe",
   "license": "MIT",
   "type": "module",
+=======
+  "private": true,
+>>>>>>> 5dee8d7 (Maj--> finalisation puzzle + config enigme 2 et 3)
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.22.3",
@@ -23,3 +28,13 @@
     "vite": "^5.2.0"
   }
 }
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.0.0"
+  }
+}
+>>>>>>> 5dee8d7 (Maj--> finalisation puzzle + config enigme 2 et 3)
