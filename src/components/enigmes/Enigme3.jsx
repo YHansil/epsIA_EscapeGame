@@ -9,7 +9,7 @@ export default function Enigme3({ onComplete }) {
       setMessage('✅ Latitude complète : 74°01’7.14’’N');
       onComplete();
     } else {
-      setMessage('❌ Erreur. Essaie encore.');
+      setMessage('❌ Erreur. Essaie encore !');
     }
   };
 
